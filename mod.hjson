@@ -6,7 +6,7 @@ repo: "Raviravirego76466/TechTreeEditor"
 subtitle: ""
 description: ""
 version: "1.0"
-minGameVersion: "141"
+minGameVersion: "149"
 java: true
 hidden: false
 dependencies: []
