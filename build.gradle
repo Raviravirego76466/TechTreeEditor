@@ -89,7 +89,6 @@ task deploy(type: Jar){
     doLast{
         delete{
             delete "$buildDir/libs/${project.archivesBaseName}Desktop.jar"
-            delete "$buildDir/libs/${project.archivesBaseName}Android.jar"
         }
     }
 }
