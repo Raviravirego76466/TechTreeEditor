@@ -17,7 +17,7 @@ import mindustry.ui.dialogs.*;
 @SuppressWarnings("unused")
 public class TechTreeEditor extends Mod {
     @SuppressWarnings("unused")
-    public TechTreeManager() {
+    public TechTreeEditor() {
 
         Events.on(ClientLoadEvent.class, e ->  {
             BaseDialog dialog = new BaseDialog("Tech Tree Manager");
