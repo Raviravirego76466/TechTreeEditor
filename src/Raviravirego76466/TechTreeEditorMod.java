@@ -15,7 +15,7 @@ import mindustry.ui.Styles;
 import mindustry.ui.dialogs.*;
 
 @SuppressWarnings("unused")
-public class TechTreeManager extends Mod {
+public class TechTreeManager {
     @SuppressWarnings("unused")
     public TechTreeManager() {
 
